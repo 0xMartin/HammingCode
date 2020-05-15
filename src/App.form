@@ -291,7 +291,7 @@
                             <properties>
                               <font size="14" style="1"/>
                               <foreground color="-15658735"/>
-                              <text value="Opravyt chybu"/>
+                              <text value="Opravit chybu"/>
                             </properties>
                           </component>
                           <component id="77358" class="javax.swing.JComboBox" binding="comboBoxError">
