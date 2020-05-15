@@ -8,5 +8,5 @@ Tento program je určen pro zabezpečovaní a kontrolu kódových slov. Program 
 
 <img src="https://github.com/0xMartin/HammingCode/blob/master/img/img2.PNG" width=70%>
 
-## Author
+## Autor
 * Martin Krčma
